@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" width="238"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/lutfinurilanwar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
