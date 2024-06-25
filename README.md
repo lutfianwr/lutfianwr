@@ -14,7 +14,6 @@
 </div>
 
 - 🌱 I’m a Front End Developer
-- 🔭 Currently open for new opportunities
 - ⚡ Focusing on React Js to create user friendly web application
 - 👯 I’m looking to collaborate on React Js based projects
 - 📫 How to reach me **lutfi.nurilanwar@gmail.com**
